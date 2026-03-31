@@ -1,0 +1,4 @@
+3
+cruise|Pireli|BurgazZ|1000|Steam Turbine|
+cargo|Tank|Containerized|100|Disel|
+fishing|Lili|5 fishing rods|3|Electric|
